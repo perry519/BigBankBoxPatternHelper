@@ -1,0 +1,22 @@
+{
+	"name" : "Big Bank Box Pattern Helper",
+	"description" : "Marks Big Bank deposit slots that can contain baggable loot according to the deposit pattern sequence variables.",
+	"author" : "Perry",
+	"version" : "1.0.0",
+	"blt_version" : 2,
+	"priority" : 0,
+	"updates" : [
+		{
+			"identifier" : "perry519.big_bank_box_pattern_helper",
+			"host" : {
+				"meta" : "https://raw.githubusercontent.com/perry519/BigBankBoxPatternHelper/main/update_meta.json"
+			}
+		}
+	],
+	"hooks" : [
+		{ "hook_id" : "lib/units/unitbase", "script_path" : "hooks/unitbase.lua" }
+	],
+	"persist_scripts" : [
+		{ "global" : "BigBankDepositPatternHighlighter", "script_path" : "core.lua" }
+	]
+}
