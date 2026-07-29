@@ -32,4 +32,5 @@ jobs:
           file_id: ${{ secrets.NEXUSMODS_FILE_ID }}
           filename: BigBankBoxPatternHelper.zip
           version: ${{ env.version }}
+          primary_mod_manager_download: true
           update_mod_version: true
