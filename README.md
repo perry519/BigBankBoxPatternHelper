@@ -1,5 +1,29 @@
 # The Big Bank Deposit Box Pattern Helper
 
+![The Big Bank Deposit Box Pattern Helper](docs/previews/thumb.png)
+
+<details>
+<summary>More images</summary>
+
+![The Big Bank Deposit Box Pattern Helper header](docs/previews/header.png)
+![The Big Bank Deposit Box Pattern Helper preview 1-1](docs/previews/1-1.png)
+![The Big Bank Deposit Box Pattern Helper preview 1-2](docs/previews/1-2.png)
+![The Big Bank Deposit Box Pattern Helper preview 1-3](docs/previews/1-3.png)
+![The Big Bank Deposit Box Pattern Helper preview 1-4](docs/previews/1-4.png)
+![The Big Bank Deposit Box Pattern Helper preview 2-1](docs/previews/2-1.png)
+![The Big Bank Deposit Box Pattern Helper preview 2-2](docs/previews/2-2.png)
+![The Big Bank Deposit Box Pattern Helper preview 2-3](docs/previews/2-3.png)
+![The Big Bank Deposit Box Pattern Helper preview 3-1](docs/previews/3-1.png)
+![The Big Bank Deposit Box Pattern Helper preview 3-2](docs/previews/3-2.png)
+![The Big Bank Deposit Box Pattern Helper preview 3-3](docs/previews/3-3.png)
+![The Big Bank Deposit Box Pattern Helper preview 3-4](docs/previews/3-4.png)
+![The Big Bank Deposit Box Pattern Helper preview 3-5](docs/previews/3-5.png)
+![The Big Bank Deposit Box Pattern Helper preview 4](docs/previews/4.png)
+![The Big Bank Deposit Box Pattern Helper preview 5](docs/previews/5.png)
+![The Big Bank Deposit Box Pattern Helper preview 6](docs/previews/6.png)
+
+</details>
+
 PAYDAY 2 SuperBLT mod that helps find loot in Big Bank deposit boxes.
 It would be easy to create a mod that marks the exact loot boxes from the start, but that felt cheaty and boring. This mod guides players through finding them instead.
 
